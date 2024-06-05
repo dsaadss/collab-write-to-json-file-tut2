@@ -1,0 +1,85 @@
+[
+      {
+            "Courses": [
+                  "Advanced Internet Technologies",
+                  "Introduction to cloud computing",
+                  "Probability for software engineering",
+                  "Automata theory"
+            ],
+            "Email": "Yarden.Shalom.Barel@e.braude.ac.il",
+            "Name": "yarden",
+            "TV-Show": "",
+            "last name": "barel",
+            "link": "https://github.com/dsaadss?tab=repositories"
+      },
+      {
+            "Courses": [
+                  "Management accounting",
+                  "Introduction to cloud computing",
+                  "learning systems",
+                  "Introduction to whispering and learning"
+            ],
+            "Email": "aviram.fishman@e.braude.ac.il",
+            "Name": "aviram",
+            "TV-Show": "",
+            "last name": "fishman",
+            "link": "https://www.linkedin.com/in/aviram-fishman"
+      },
+      {
+            "Courses": [
+                  "Introduction to cloud computing",
+                  "Applied technical english",
+                  "Data mining and learning systems",
+                  "Computer networks",
+                  "Chess"
+            ],
+            "Email": "yaakov.shitrit@e.braude.ac.il",
+            "Name": "Yaakov",
+            "TV-Show": "testing",
+            "last name": "Shitrit",
+            "link": "https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb"
+      },
+      {
+            "Courses": [
+                  "Introduction to cloud computing",
+                  "Probability for software engineering",
+                  "WEB",
+                  "Optimization",
+                  "compilation"
+            ],
+            "Email": "bar.matzliah@e.braude.ac.il",
+            "Name": "Bar",
+            "TV-Show": "friends",
+            "last name": "Matzliah",
+            "link": ""
+      },
+      {
+            "Courses": [
+                  "Introduction to cloud computing",
+                  "introduction to optimization",
+                  "data mining",
+                  "algorithms for texts",
+                  "programming languages",
+                  "scientific programming"
+            ],
+            "Email": "Lee.Bergman@e.braude.ac.il",
+            "Name": "Lee",
+            "TV-Show": "",
+            "last name": "Tal",
+            "link": ""
+      },
+      {
+            "Courses": [
+                  "cloud computing",
+                  "compilation",
+                  "web technologies",
+                  "Introduction to AI",
+                  "general course"
+            ],
+            "Email": "Adar.cohen@e.braude.ac.il",
+            "Name": "Adar",
+            "TV-Show": "one piece",
+            "last name": "Cohen",
+            "link": "https://github.com/AdarCohen1"
+      }
+]
